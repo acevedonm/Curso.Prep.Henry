@@ -1,0 +1,5 @@
+-Variables: un lugar en la memoria de la computadora donde podes guardar un tipo de dato.
+-String: Tipo de dato, es una cadena de caracteres.
+-Funciones: un trozo de codigo que sabes que vas a utilizar muchas veces, por ende lo "encapsulas" en una funcion, llamas a la funcion cada vez que queres ejecutar ese codigo
+-Declaraciones: son sentencias del tipo "si xxx entonces yyy" si xxx es verdadero entonces ejecuta yyy
+-Valores booleanos: tipos de datos, en este caso pueden tomar solo dos valores "falso" o "verdadero"
