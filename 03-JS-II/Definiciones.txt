@@ -1,0 +1,4 @@
+-for : es un tipo de bucle que se ejecuta un determinado numero de veces, se usa cuando tenemos en claro cuantas veces debemos repetir el procedimiento (o cuando las veces que se va a repetir son ingresadas desde el exterior del programa)
+- && : compara dos sentencias y devuelve verdadero si y solo si ambas sentencias son verdadero
+-|| : compara dos sentencias y devuelve verdadero si almenos UNA de las sentencias es verdadera
+! : niega la sentencia, por lo tanto devuelve su valor booleano opuesto, si la sentencia es verdadera devuelve falso, y si la sentencia es falsa devuelve verdadero.

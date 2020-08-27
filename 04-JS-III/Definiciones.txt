@@ -1,0 +1,2 @@
+Arrays: Los arreglos son una estructura de datos, del estilo lista. Almacenan un numero de elementos ordenados O NO de cualquier tipo.
+ para acceder a un determinado elemento contamos con un indice que comienza en 0.
