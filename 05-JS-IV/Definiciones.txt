@@ -1,0 +1,3 @@
+-Objetos: Los objetos describen, valga la redundancia, objetos de la vida real, o conceptos. la caracteristica mas importante es que poseen propiedades y metodos que pertenecen a ese objeto.
+-propiedades: son los datos internos del objeto
+-metodos: son las funciones internas de un objeto
