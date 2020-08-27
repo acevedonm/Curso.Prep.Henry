@@ -1,0 +1,2 @@
+Prototype: es la classe a la que pertenece un objeto.
+_Constructor_ : es el metodo por el cual instancias un objeto
